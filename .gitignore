@@ -1,0 +1,9 @@
+*.sln
+*.userprefs
+*.csproj
+Library/
+Temp
+obj
+output_log.txt
+Physics2DSettings.asset
+ProjectSettings/

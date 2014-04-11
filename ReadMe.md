@@ -26,7 +26,7 @@ Live2DUnity.dllが必要です。
 FAQ
 ----
 
-何かわからないことや疑問があったら、[Live2D Community](http://community.live2d.com/)を利用してください。
+何かわからないことや疑問があったら、[Live2D ユーザーフォーラム](http://forum.live2d.com/)を利用してください。
 
 
 ログ

@@ -6,7 +6,9 @@ Live2D Unity Sample Gamepad
 ----
 
 Live2DモデルをUnityで動かし、ゲームパッドと連携させるサンプルです。
+
 フィードバックやバグについてもぜひご連絡ください！
+
 開発についての情報は、[Documents](http://sites.cybernoids.jp/cubism/)へ
 
 
@@ -14,8 +16,10 @@ Live2DモデルをUnityで動かし、ゲームパッドと連携させるサンプルです。
 ----
 
 このサンプルは、Unity 4.3.1で開発されました。
+
 Live2DUnity.dllが必要です。
-[Live2D Cubism SDK for Unity](http://www.live2d.com/products/cubism_sdk)よりダウンロードして、
+
+[Live2D Cubism SDK for Unity](http://www.live2d.com/products/cubism_sdk)からダウンロードして、
 プロジェクトのLive2Dフォルダの中に入れてください。
 
 
